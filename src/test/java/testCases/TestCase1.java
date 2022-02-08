@@ -8,5 +8,10 @@ public class TestCase1 {
 	public void abcd() {
 		System.out.println("I am one.");
 	}
+	
+	@Test
+	public void abcde() {
+		System.out.println("I am two.");
+	}
 
 }
